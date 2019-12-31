@@ -1,0 +1,18 @@
+* {
+	box-sizing: border-box;
+}
+
+#personajes {
+	position: relative;
+}
+
+#personajesMarvel {
+	left: 0;
+	position: static;
+	float: left;
+}
+
+#personajesDC {
+	left: 0;
+	position: static;
+}

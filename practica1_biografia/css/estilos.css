@@ -1,0 +1,30 @@
+html {
+	font-size: 20px;
+	font-family: Verdana, 'Lucida Console';
+}
+
+html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: black;
+	color: white;
+	margin: 50px 250px;
+}
+
+h1, h2 {
+	text-align: center;
+	text-shadow: 3px 3px 4px dimgray;
+}
+
+div {
+	text-align: justify;
+}
+
+.info {
+	border: 1px solid white;
+	border-radius: 7px;
+	padding: 2rem;	
+}

@@ -1,0 +1,15 @@
+*{
+	font-family: Century Gothic;
+}
+
+table tr td{
+	border-radius: 2px;
+	background-color: pink;
+	border-color: white;
+	padding: 4px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+table tr td{
+	text-align: center;
+}

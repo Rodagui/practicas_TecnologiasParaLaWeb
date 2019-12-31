@@ -1,0 +1,53 @@
+.marvel{
+	color: #000000;
+	margin-bottom: 1rem;
+	display: inline-block;
+	width: 300px;
+	position: static;
+	left: 0;
+}
+
+.marvel.tarjeta{
+	border-radius: 5px;
+
+}
+
+#ironMan h2{
+	background-color: #BD9024;
+}
+
+#ironMan ul{
+	background-color: #CD0E0E;
+}
+
+#thor h2{
+	background-color: #000000;
+	/*background-color: #DBB903;*/
+}
+#thor ul{
+	background-color: #8F7A07;
+}
+
+#hulk h2{
+	background-color: #0E4520;
+}
+
+#hulk ul{
+	background-color: #009832;
+}
+
+
+.marvel.tarjeta h2 {
+	background-color: #BE0E05;
+	color: white;
+	text-align: center;
+	margin: 0;
+}
+
+.marvel.tarjeta ul {
+	margin: 0;
+	list-style: none;
+	background-color: #378C4C;
+	color: white;
+	font-weight: bolder;
+}

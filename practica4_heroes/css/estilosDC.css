@@ -1,0 +1,58 @@
+.dc{
+	color: #000000;
+	margin-bottom: 1rem;
+	display: inline-block;
+	width: 300px;
+	position: static;
+	left: 0;
+}
+
+.dc.tarjeta{
+	position: relative;
+	border-radius: 5px;
+	margin-right: 0;
+	margin-left: 0;
+	padding-right: 0;
+	padding-left: 0;
+}
+
+.dc.tarjeta h2 {
+	background-color: #052623;
+	color: white;
+	text-align: center;
+	margin: 0;
+}
+
+.dc.tarjeta ul {
+	margin: 0;
+	list-style: none;
+	background-color: #378C4C;
+	color: white;
+	font-weight: bolder;
+}
+
+#wonderWoman h2{
+	background-color: #E41100;
+}
+
+#wonderWoman ul{
+	background-color: #0F77FF;
+}
+
+#acuaman h2{
+	background-color: #D4AA00;
+}
+
+#acuaman ul{
+	background-color: #08A009;
+}
+
+#flash h2{
+	background-color: #ECA508;
+}
+
+#flash ul{
+
+	background-color: #DB1703;
+
+}

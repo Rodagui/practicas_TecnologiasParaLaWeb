@@ -1,0 +1,46 @@
+* {
+	box-sizing: border-box;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: #FFF2F8;
+}
+
+html {
+	font-size: 18px;
+	font-family: 'Century Gothic';
+}
+
+ul{
+	list-style: none;
+}
+
+#tituloPrincipal {
+	background-color: #BF1736;
+	text-align: center;
+	color: white;
+}
+
+#tituloPrincipal h1 {
+	margin: 0;
+}
+
+.banda {
+	border-style: solid;
+	border-color: #BF1736;
+	border-radius: 5px;
+	margin: 1rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+.banda h3 {
+	color: #0E2773;
+}
+
+.bandaNombre {
+	text-align: center;
+	color: #0E2773;
+} 
